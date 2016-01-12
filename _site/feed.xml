@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>=== My Random Blog ===</title>
+    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+</description>
+    <link>http://zzcoder.github.io/blog/blog/</link>
+    <atom:link href="http://zzcoder.github.io/blog/blog/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 12 Jan 2016 12:00:00 -0500</pubDate>
+    <lastBuildDate>Tue, 12 Jan 2016 12:00:00 -0500</lastBuildDate>
+    <generator>Jekyll v3.0.1</generator>
+    
+      <item>
+        <title>How to Upload Photos to Flickr</title>
+        <description>&lt;p&gt;&lt;em&gt;Tips: Click on images to see high definition version&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://zzcoder.github.io/blog/images/flickr/bad-panda.jpg&quot; alt=&quot;photo&quot; /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;change-permission-to-private&quot;&gt;Change permission to private&lt;/h3&gt;
+
+&lt;p&gt;If you don’t want your photos in public, you should change default settings.&lt;/p&gt;
+
+&lt;div class=&quot;clickable-image&quot;&gt;
+&lt;a href=&quot;/blog/images/flickr/bad-panda.jpg&quot;&gt;
+&lt;div class=&quot;responsive-image&quot;&gt;
+    &lt;div class=&quot;img_bad-panda_jpg__delayed&quot; data-src=&quot;/blog/images/resized/{width}/bad-panda.jpg&quot;&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;p /&gt;
+
+&lt;script&gt;
+    new Imager(&quot;.img_bad-panda_jpg__delayed&quot;, {
+        availableWidths: [480, 740]
+    });
+&lt;/script&gt;
+
+</description>
+        <pubDate>Tue, 12 Jan 2016 00:00:00 -0500</pubDate>
+        <link>http://zzcoder.github.io/blog/blog/tutorial/2016/01/12/tutorial-flickr.html</link>
+        <guid isPermaLink="true">http://zzcoder.github.io/blog/blog/tutorial/2016/01/12/tutorial-flickr.html</guid>
+        
+        
+        <category>tutorial</category>
+        
+      </item>
+    
+  </channel>
+</rss>
