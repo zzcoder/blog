@@ -17,3 +17,8 @@ If you don't want your photos in public, you should change default settings.
 
 {% responsive_image path: images/flickr/bad-panda.jpg %}
 
+----------------------
+
+Huge picture test.
+{% responsive_image path: images/flickr/test.jpg %}
+

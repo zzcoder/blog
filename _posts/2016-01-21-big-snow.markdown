@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "2016大雪暴"
+date:   2016-01-21
+categories: blog
+---
+
+*小贴士：点击图片可以显示高清大图。*
+
+实况
+{% assign webcam = 'http://cr5803.myfoscam.org:88/cgi-bin/CGIProxy.fcgi?cmd=snapPicture2&usr=guest&pwd=secret1234' %}
+
+<div class="image">
+ <a href="{{webcam}}"><img src="{{webcam}}" /></a>
+</div>
+
+
+----------------------
+
+Huge picture test.
+{% responsive_image path: images/flickr/test.jpg %}
+
+
