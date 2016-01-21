@@ -53,6 +53,25 @@
     });
 </script>
 
+<hr />
+
+<p>Huge picture test.</p>
+
+<div class="clickable-image">
+<a href="/blog/images/flickr/test.jpg">
+<div class="responsive-image">
+    <div class="img_test_jpg__delayed" data-src="/blog/images/resized/{width}/test.jpg"></div>
+</div>
+</a>
+</div>
+<p />
+
+<script>
+    new Imager(".img_test_jpg__delayed", {
+        availableWidths: [480, 740, 1400]
+    });
+</script>
+
 
   </div>
 
