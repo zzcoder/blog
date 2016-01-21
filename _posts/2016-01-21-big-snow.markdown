@@ -8,7 +8,7 @@ categories: blog
 *小贴士：点击图片可以显示高清大图。*
 
 实况
-{% assign webcam = 'http://cr5803.myfoscam.org:88/cgi-bin/CGIProxy.fcgi?cmd=snapPicture2&usr=guest&pwd=secret1234' %}
+{% assign webcam = 'http://cr5803.myfoscam.org:88/cgi-bin/CGIProxy.fcgi?cmd=snapPicture2&usr=viewer&pwd=null' %}
 
 <div class="image">
  <a href="{{webcam}}"><img src="{{webcam}}" /></a>
