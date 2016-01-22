@@ -6,8 +6,8 @@
 </description>
     <link>http://zzcoder.github.io/blog/blog/</link>
     <atom:link href="http://zzcoder.github.io/blog/blog/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 22 Jan 2016 16:44:08 -0500</pubDate>
-    <lastBuildDate>Fri, 22 Jan 2016 16:44:08 -0500</lastBuildDate>
+    <pubDate>Fri, 22 Jan 2016 16:48:24 -0500</pubDate>
+    <lastBuildDate>Fri, 22 Jan 2016 16:48:24 -0500</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
     
       <item>
@@ -30,31 +30,31 @@
 &lt;p&gt;2016-01-22 16:00 下了3个多小时了。大约有两英尺厚。&lt;/p&gt;
 
 &lt;div class=&quot;clickable-image&quot;&gt;
-&lt;a href=&quot;/blog/images/snow/snow1a.jpg&quot;&gt;
+&lt;a href=&quot;/blog/images/snow/snow_1a.jpg&quot;&gt;
 &lt;div class=&quot;responsive-image&quot;&gt;
-    &lt;div class=&quot;img_snow1a_jpg__delayed&quot; data-src=&quot;/blog/images/resized/{width}/snow1a.jpg&quot;&gt;&lt;/div&gt;
+    &lt;div class=&quot;img_snow_1a_jpg__delayed&quot; data-src=&quot;/blog/images/resized/{width}/snow_1a.jpg&quot;&gt;&lt;/div&gt;
 &lt;/div&gt;
 &lt;/a&gt;
 &lt;/div&gt;
 &lt;p /&gt;
 
 &lt;script&gt;
-    new Imager(&quot;.img_snow1a_jpg__delayed&quot;, {
+    new Imager(&quot;.img_snow_1a_jpg__delayed&quot;, {
         availableWidths: [480, 740, 1400]
     });
 &lt;/script&gt;
 
 &lt;div class=&quot;clickable-image&quot;&gt;
-&lt;a href=&quot;/blog/images/snow/snow1b.jpg&quot;&gt;
+&lt;a href=&quot;/blog/images/snow/snow_1b.jpg&quot;&gt;
 &lt;div class=&quot;responsive-image&quot;&gt;
-    &lt;div class=&quot;img_snow1b_jpg__delayed&quot; data-src=&quot;/blog/images/resized/{width}/snow1b.jpg&quot;&gt;&lt;/div&gt;
+    &lt;div class=&quot;img_snow_1b_jpg__delayed&quot; data-src=&quot;/blog/images/resized/{width}/snow_1b.jpg&quot;&gt;&lt;/div&gt;
 &lt;/div&gt;
 &lt;/a&gt;
 &lt;/div&gt;
 &lt;p /&gt;
 
 &lt;script&gt;
-    new Imager(&quot;.img_snow1b_jpg__delayed&quot;, {
+    new Imager(&quot;.img_snow_1b_jpg__delayed&quot;, {
         availableWidths: [480, 740, 1400]
     });
 &lt;/script&gt;
