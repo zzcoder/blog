@@ -19,4 +19,9 @@ categories: blog
  <a href="{{webcam}}"><img src="{{webcam}}" /></a>
 </div>
 
+--------------------
+
+2016-01-22 16:00 下了3个多小时了。大约有两英尺厚。
+{% responsive_image path: images/snow/snow1a.jpg %}
+{% responsive_image path: images/snow/snow1b.jpg %}
 
