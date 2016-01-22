@@ -6,8 +6,8 @@
 </description>
     <link>http://zzcoder.github.io/blog/blog/</link>
     <atom:link href="http://zzcoder.github.io/blog/blog/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 22 Jan 2016 14:50:21 -0500</pubDate>
-    <lastBuildDate>Fri, 22 Jan 2016 14:50:21 -0500</lastBuildDate>
+    <pubDate>Fri, 22 Jan 2016 16:16:08 -0500</pubDate>
+    <lastBuildDate>Fri, 22 Jan 2016 16:16:08 -0500</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
     
       <item>
@@ -25,66 +25,44 @@
  &lt;a href=&quot;http://cr5803.myfoscam.org:88/cgi-bin/CGIProxy.fcgi?cmd=snapPicture2&amp;amp;usr=viewer&amp;amp;pwd=null&quot;&gt;&lt;img src=&quot;http://cr5803.myfoscam.org:88/cgi-bin/CGIProxy.fcgi?cmd=snapPicture2&amp;amp;usr=viewer&amp;amp;pwd=null&quot; /&gt;&lt;/a&gt;
 &lt;/div&gt;
 
-</description>
-        <pubDate>Fri, 22 Jan 2016 00:00:00 -0500</pubDate>
-        <link>http://zzcoder.github.io/blog/blog/blog/2016/01/22/blizzard.html</link>
-        <guid isPermaLink="true">http://zzcoder.github.io/blog/blog/blog/2016/01/22/blizzard.html</guid>
-        
-        
-        <category>blog</category>
-        
-      </item>
-    
-      <item>
-        <title>test</title>
-        <description>&lt;p&gt;&lt;em&gt;Tips: Click on images to see high definition version&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://zzcoder.github.io/blog/images/flickr/bad-panda.jpg&quot; alt=&quot;photo&quot; /&gt;&lt;/p&gt;
-
 &lt;hr /&gt;
 
-&lt;h3 id=&quot;change-permission-to-private&quot;&gt;Change permission to private&lt;/h3&gt;
-
-&lt;p&gt;If you don’t want your photos in public, you should change default settings.&lt;/p&gt;
+&lt;p&gt;2016-01-22 16:00 下了3个多小时了。大约有两英尺厚。&lt;/p&gt;
 
 &lt;div class=&quot;clickable-image&quot;&gt;
-&lt;a href=&quot;/blog/images/flickr/bad-panda.jpg&quot;&gt;
+&lt;a href=&quot;/blog/images/snow/snow1a.jpg&quot;&gt;
 &lt;div class=&quot;responsive-image&quot;&gt;
-    &lt;div class=&quot;img_bad-panda_jpg__delayed&quot; data-src=&quot;/blog/images/resized/{width}/bad-panda.jpg&quot;&gt;&lt;/div&gt;
+    &lt;div class=&quot;img_snow1a_jpg__delayed&quot; data-src=&quot;/blog/images/resized/{width}/snow1a.jpg&quot;&gt;&lt;/div&gt;
 &lt;/div&gt;
 &lt;/a&gt;
 &lt;/div&gt;
 &lt;p /&gt;
 
 &lt;script&gt;
-    new Imager(&quot;.img_bad-panda_jpg__delayed&quot;, {
-        availableWidths: [480, 740]
+    new Imager(&quot;.img_snow1a_jpg__delayed&quot;, {
+        availableWidths: [480, 740, 1400]
     });
 &lt;/script&gt;
 
-&lt;hr /&gt;
-
-&lt;p&gt;Huge picture test.&lt;/p&gt;
-
 &lt;div class=&quot;clickable-image&quot;&gt;
-&lt;a href=&quot;/blog/images/flickr/test.jpg&quot;&gt;
+&lt;a href=&quot;/blog/images/snow/snow1b.jpg&quot;&gt;
 &lt;div class=&quot;responsive-image&quot;&gt;
-    &lt;div class=&quot;img_test_jpg__delayed&quot; data-src=&quot;/blog/images/resized/{width}/test.jpg&quot;&gt;&lt;/div&gt;
+    &lt;div class=&quot;img_snow1b_jpg__delayed&quot; data-src=&quot;/blog/images/resized/{width}/snow1b.jpg&quot;&gt;&lt;/div&gt;
 &lt;/div&gt;
 &lt;/a&gt;
 &lt;/div&gt;
 &lt;p /&gt;
 
 &lt;script&gt;
-    new Imager(&quot;.img_test_jpg__delayed&quot;, {
+    new Imager(&quot;.img_snow1b_jpg__delayed&quot;, {
         availableWidths: [480, 740, 1400]
     });
 &lt;/script&gt;
 
 </description>
-        <pubDate>Wed, 13 Jan 2016 00:00:00 -0500</pubDate>
-        <link>http://zzcoder.github.io/blog/blog/blog/2016/01/13/test.html</link>
-        <guid isPermaLink="true">http://zzcoder.github.io/blog/blog/blog/2016/01/13/test.html</guid>
+        <pubDate>Fri, 22 Jan 2016 00:00:00 -0500</pubDate>
+        <link>http://zzcoder.github.io/blog/blog/blog/2016/01/22/blizzard.html</link>
+        <guid isPermaLink="true">http://zzcoder.github.io/blog/blog/blog/2016/01/22/blizzard.html</guid>
         
         
         <category>blog</category>
