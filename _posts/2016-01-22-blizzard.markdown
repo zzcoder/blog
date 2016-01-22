@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "直击2016美东大雪暴"
+date:   2016-01-22
+categories: blog
+---
+
+*小贴士：点击图片可以显示高清大图。*
+
+从12月22日下午一点钟开始，华盛顿地区开始下大雪。据预报，这次积雪可达24-30英寸(60-76cm). 
+风速将达到65公里/小时. 这将是历史性的大风暴。
+
+---------------------
+
+这是实时图片。每次回到这个网页，你将看到刷新的图片。（*如果看不到图片，就说明停电了*)
+{% assign webcam = 'http://cr5803.myfoscam.org:88/cgi-bin/CGIProxy.fcgi?cmd=snapPicture2&usr=viewer&pwd=null' %}
+
+<div class="image">
+ <a href="{{webcam}}"><img src="{{webcam}}" /></a>
+</div>
+
+
