@@ -21,12 +21,12 @@ categories: blog
 
 --------------------
 
-2016-01-22 16:00 下了3个多小时了。大约有两英尺厚。
+2016-01-22 16:00 下了3个多小时了。大约有两英寸厚。
 {% responsive_image path: images/snow/snow_1a.jpg %}
 {% responsive_image path: images/snow/snow_1b.jpg %}
 
 -------------------
 
-2016-01-22 18:00 雪有4英尺厚。
+2016-01-22 18:00 雪有4英寸厚。
 {% responsive_image path: images/snow/snow_2a.jpg %}
 {% responsive_image path: images/snow/snow_2b.jpg %}
