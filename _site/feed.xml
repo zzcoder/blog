@@ -6,8 +6,8 @@
 </description>
     <link>http://zzcoder.github.io/blog/blog/</link>
     <atom:link href="http://zzcoder.github.io/blog/blog/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 22 Jan 2016 23:33:50 -0500</pubDate>
-    <lastBuildDate>Fri, 22 Jan 2016 23:33:50 -0500</lastBuildDate>
+    <pubDate>Sat, 23 Jan 2016 11:57:19 -0500</pubDate>
+    <lastBuildDate>Sat, 23 Jan 2016 11:57:19 -0500</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
     
       <item>
@@ -27,34 +27,83 @@
 
 &lt;hr /&gt;
 
-&lt;p&gt;2016-01-22 16:00 下了3个多小时了。大约有两英寸厚。&lt;/p&gt;
+&lt;p&gt;2016-01-23 11:00 雪快2呎厚了。&lt;/p&gt;
 
 &lt;div class=&quot;clickable-image&quot;&gt;
-&lt;a href=&quot;/blog/images/snow/snow_1a.jpg&quot;&gt;
+&lt;a href=&quot;/blog/images/snow/snow_4a.jpg&quot;&gt;
 &lt;div class=&quot;responsive-image&quot;&gt;
-    &lt;div class=&quot;img_snow_1a_jpg__delayed&quot; data-src=&quot;/blog/images/resized/{width}/snow_1a.jpg&quot;&gt;&lt;/div&gt;
+    &lt;div class=&quot;img_snow_4a_jpg__delayed&quot; data-src=&quot;/blog/images/resized/{width}/snow_4a.jpg&quot;&gt;&lt;/div&gt;
 &lt;/div&gt;
 &lt;/a&gt;
 &lt;/div&gt;
 &lt;p /&gt;
 
 &lt;script&gt;
-    new Imager(&quot;.img_snow_1a_jpg__delayed&quot;, {
+    new Imager(&quot;.img_snow_4a_jpg__delayed&quot;, {
         availableWidths: [480, 740, 1400]
     });
 &lt;/script&gt;
 
 &lt;div class=&quot;clickable-image&quot;&gt;
-&lt;a href=&quot;/blog/images/snow/snow_1b.jpg&quot;&gt;
+&lt;a href=&quot;/blog/images/snow/snow_4b.jpg&quot;&gt;
 &lt;div class=&quot;responsive-image&quot;&gt;
-    &lt;div class=&quot;img_snow_1b_jpg__delayed&quot; data-src=&quot;/blog/images/resized/{width}/snow_1b.jpg&quot;&gt;&lt;/div&gt;
+    &lt;div class=&quot;img_snow_4b_jpg__delayed&quot; data-src=&quot;/blog/images/resized/{width}/snow_4b.jpg&quot;&gt;&lt;/div&gt;
 &lt;/div&gt;
 &lt;/a&gt;
 &lt;/div&gt;
 &lt;p /&gt;
 
 &lt;script&gt;
-    new Imager(&quot;.img_snow_1b_jpg__delayed&quot;, {
+    new Imager(&quot;.img_snow_4b_jpg__delayed&quot;, {
+        availableWidths: [480, 740]
+    });
+&lt;/script&gt;
+
+&lt;div class=&quot;clickable-image&quot;&gt;
+&lt;a href=&quot;/blog/images/snow/snow_4c.jpg&quot;&gt;
+&lt;div class=&quot;responsive-image&quot;&gt;
+    &lt;div class=&quot;img_snow_4c_jpg__delayed&quot; data-src=&quot;/blog/images/resized/{width}/snow_4c.jpg&quot;&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;p /&gt;
+
+&lt;script&gt;
+    new Imager(&quot;.img_snow_4c_jpg__delayed&quot;, {
+        availableWidths: [480, 740, 1400]
+    });
+&lt;/script&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;2016-01-22 22:21 雪有8英寸厚。&lt;/p&gt;
+
+&lt;div class=&quot;clickable-image&quot;&gt;
+&lt;a href=&quot;/blog/images/snow/snow_3a.jpg&quot;&gt;
+&lt;div class=&quot;responsive-image&quot;&gt;
+    &lt;div class=&quot;img_snow_3a_jpg__delayed&quot; data-src=&quot;/blog/images/resized/{width}/snow_3a.jpg&quot;&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;p /&gt;
+
+&lt;script&gt;
+    new Imager(&quot;.img_snow_3a_jpg__delayed&quot;, {
+        availableWidths: [480, 740, 1400]
+    });
+&lt;/script&gt;
+
+&lt;div class=&quot;clickable-image&quot;&gt;
+&lt;a href=&quot;/blog/images/snow/snow_3b.jpg&quot;&gt;
+&lt;div class=&quot;responsive-image&quot;&gt;
+    &lt;div class=&quot;img_snow_3b_jpg__delayed&quot; data-src=&quot;/blog/images/resized/{width}/snow_3b.jpg&quot;&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;p /&gt;
+
+&lt;script&gt;
+    new Imager(&quot;.img_snow_3b_jpg__delayed&quot;, {
         availableWidths: [480, 740, 1400]
     });
 &lt;/script&gt;
@@ -95,34 +144,34 @@
 
 &lt;hr /&gt;
 
-&lt;p&gt;2016-01-22 22:21 雪有8英寸厚。&lt;/p&gt;
+&lt;p&gt;2016-01-22 16:00 下了3个多小时了。大约有两英寸厚。&lt;/p&gt;
 
 &lt;div class=&quot;clickable-image&quot;&gt;
-&lt;a href=&quot;/blog/images/snow/snow_3a.jpg&quot;&gt;
+&lt;a href=&quot;/blog/images/snow/snow_1a.jpg&quot;&gt;
 &lt;div class=&quot;responsive-image&quot;&gt;
-    &lt;div class=&quot;img_snow_3a_jpg__delayed&quot; data-src=&quot;/blog/images/resized/{width}/snow_3a.jpg&quot;&gt;&lt;/div&gt;
+    &lt;div class=&quot;img_snow_1a_jpg__delayed&quot; data-src=&quot;/blog/images/resized/{width}/snow_1a.jpg&quot;&gt;&lt;/div&gt;
 &lt;/div&gt;
 &lt;/a&gt;
 &lt;/div&gt;
 &lt;p /&gt;
 
 &lt;script&gt;
-    new Imager(&quot;.img_snow_3a_jpg__delayed&quot;, {
+    new Imager(&quot;.img_snow_1a_jpg__delayed&quot;, {
         availableWidths: [480, 740, 1400]
     });
 &lt;/script&gt;
 
 &lt;div class=&quot;clickable-image&quot;&gt;
-&lt;a href=&quot;/blog/images/snow/snow_3b.jpg&quot;&gt;
+&lt;a href=&quot;/blog/images/snow/snow_1b.jpg&quot;&gt;
 &lt;div class=&quot;responsive-image&quot;&gt;
-    &lt;div class=&quot;img_snow_3b_jpg__delayed&quot; data-src=&quot;/blog/images/resized/{width}/snow_3b.jpg&quot;&gt;&lt;/div&gt;
+    &lt;div class=&quot;img_snow_1b_jpg__delayed&quot; data-src=&quot;/blog/images/resized/{width}/snow_1b.jpg&quot;&gt;&lt;/div&gt;
 &lt;/div&gt;
 &lt;/a&gt;
 &lt;/div&gt;
 &lt;p /&gt;
 
 &lt;script&gt;
-    new Imager(&quot;.img_snow_3b_jpg__delayed&quot;, {
+    new Imager(&quot;.img_snow_1b_jpg__delayed&quot;, {
         availableWidths: [480, 740, 1400]
     });
 &lt;/script&gt;

@@ -19,11 +19,18 @@ categories: blog
  <a href="{{webcam}}"><img src="{{webcam}}" /></a>
 </div>
 
+-------------------
+
+2016-01-23 11:00 雪快2呎厚了。
+{% responsive_image path: images/snow/snow_4a.jpg %}
+{% responsive_image path: images/snow/snow_4b.jpg %}
+{% responsive_image path: images/snow/snow_4c.jpg %}
+
 --------------------
 
-2016-01-22 16:00 下了3个多小时了。大约有两英寸厚。
-{% responsive_image path: images/snow/snow_1a.jpg %}
-{% responsive_image path: images/snow/snow_1b.jpg %}
+2016-01-22 22:21 雪有8英寸厚。
+{% responsive_image path: images/snow/snow_3a.jpg %}
+{% responsive_image path: images/snow/snow_3b.jpg %}
 
 -------------------
 
@@ -31,9 +38,10 @@ categories: blog
 {% responsive_image path: images/snow/snow_2a.jpg %}
 {% responsive_image path: images/snow/snow_2b.jpg %}
 
+
 --------------------
 
-2016-01-22 22:21 雪有8英寸厚。
-{% responsive_image path: images/snow/snow_3a.jpg %}
-{% responsive_image path: images/snow/snow_3b.jpg %}
+2016-01-22 16:00 下了3个多小时了。大约有两英寸厚。
+{% responsive_image path: images/snow/snow_1a.jpg %}
+{% responsive_image path: images/snow/snow_1b.jpg %}
 
