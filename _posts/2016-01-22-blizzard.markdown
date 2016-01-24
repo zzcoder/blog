@@ -21,6 +21,15 @@ categories: blog
 
 -------------------
 
+2016-01-23 17:30 雪已两呎多厚了。开始铲雪了。
+{% responsive_image path: images/snow/snow_5a.jpg %}
+{% responsive_image path: images/snow/snow_5b.jpg %}
+{% responsive_image path: images/snow/snow_5c.jpg %}
+{% responsive_image path: images/snow/snow_5d.jpg %}
+{% responsive_image path: images/snow/snow_5e.jpg %}
+
+-------------------
+
 2016-01-23 11:00 雪快2呎厚了。
 {% responsive_image path: images/snow/snow_4a.jpg %}
 {% responsive_image path: images/snow/snow_4b.jpg %}
