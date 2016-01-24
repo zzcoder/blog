@@ -20,8 +20,16 @@ categories: blog
 </div>
 
 -------------------
-这是24小时的缩时摄影。
-<iframe height="498" width="510" src="http://player.youku.com/embed/XMTQ1NTAyODIzMg==" frameborder="0" allowfullscreen="1"> </iframe>
+
+2016-01-24 10:00 雪终于停了，阳台上雪有68cm厚。
+{% responsive_image path: images/snow/snow_6a.jpg %}
+{% responsive_image path: images/snow/snow_6b.jpg %}
+{% responsive_image path: images/snow/snow_6c.jpg %}
+{% responsive_image path: images/snow/snow_6d.jpg %}
+
+所幸的是唯一损失是几颗树倒了。
+{% responsive_image path: images/snow/snow_6e.jpg %}
+
 -------------------
 
 2016-01-23 17:30 雪已两呎多厚了。开始铲雪了。
