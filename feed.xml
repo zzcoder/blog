@@ -6,8 +6,8 @@
 </description>
     <link>http://zzcoder.github.io/blog/blog/</link>
     <atom:link href="http://zzcoder.github.io/blog/blog/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 23 Jan 2016 21:30:04 -0500</pubDate>
-    <lastBuildDate>Sat, 23 Jan 2016 21:30:04 -0500</lastBuildDate>
+    <pubDate>Sun, 24 Jan 2016 10:14:54 -0500</pubDate>
+    <lastBuildDate>Sun, 24 Jan 2016 10:14:54 -0500</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
     
       <item>
@@ -26,8 +26,86 @@
 &lt;/div&gt;
 
 &lt;hr /&gt;
-&lt;p&gt;这是24小时的缩时摄影。&lt;/p&gt;
-&lt;iframe height=&quot;498&quot; width=&quot;510&quot; src=&quot;http://player.youku.com/embed/XMTQ1NTAyODIzMg==&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;1&quot;&gt; &lt;/iframe&gt;
+
+&lt;p&gt;2016-01-24 10:00 雪终于停了，阳台上雪有68cm厚。&lt;/p&gt;
+
+&lt;div class=&quot;clickable-image&quot;&gt;
+&lt;a href=&quot;/blog/images/snow/snow_6a.jpg&quot;&gt;
+&lt;div class=&quot;responsive-image&quot;&gt;
+    &lt;div class=&quot;img_snow_6a_jpg__delayed&quot; data-src=&quot;/blog/images/resized/{width}/snow_6a.jpg&quot;&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;p /&gt;
+
+&lt;script&gt;
+    new Imager(&quot;.img_snow_6a_jpg__delayed&quot;, {
+        availableWidths: [480, 740, 1400]
+    });
+&lt;/script&gt;
+
+&lt;div class=&quot;clickable-image&quot;&gt;
+&lt;a href=&quot;/blog/images/snow/snow_6b.jpg&quot;&gt;
+&lt;div class=&quot;responsive-image&quot;&gt;
+    &lt;div class=&quot;img_snow_6b_jpg__delayed&quot; data-src=&quot;/blog/images/resized/{width}/snow_6b.jpg&quot;&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;p /&gt;
+
+&lt;script&gt;
+    new Imager(&quot;.img_snow_6b_jpg__delayed&quot;, {
+        availableWidths: [480, 740, 1400]
+    });
+&lt;/script&gt;
+
+&lt;div class=&quot;clickable-image&quot;&gt;
+&lt;a href=&quot;/blog/images/snow/snow_6c.jpg&quot;&gt;
+&lt;div class=&quot;responsive-image&quot;&gt;
+    &lt;div class=&quot;img_snow_6c_jpg__delayed&quot; data-src=&quot;/blog/images/resized/{width}/snow_6c.jpg&quot;&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;p /&gt;
+
+&lt;script&gt;
+    new Imager(&quot;.img_snow_6c_jpg__delayed&quot;, {
+        availableWidths: [480, 740, 1400]
+    });
+&lt;/script&gt;
+
+&lt;div class=&quot;clickable-image&quot;&gt;
+&lt;a href=&quot;/blog/images/snow/snow_6d.jpg&quot;&gt;
+&lt;div class=&quot;responsive-image&quot;&gt;
+    &lt;div class=&quot;img_snow_6d_jpg__delayed&quot; data-src=&quot;/blog/images/resized/{width}/snow_6d.jpg&quot;&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;p /&gt;
+
+&lt;script&gt;
+    new Imager(&quot;.img_snow_6d_jpg__delayed&quot;, {
+        availableWidths: [480, 740, 1400]
+    });
+&lt;/script&gt;
+
+&lt;p&gt;所幸的是唯一损失是几颗树倒了。&lt;/p&gt;
+
+&lt;div class=&quot;clickable-image&quot;&gt;
+&lt;a href=&quot;/blog/images/snow/snow_6e.jpg&quot;&gt;
+&lt;div class=&quot;responsive-image&quot;&gt;
+    &lt;div class=&quot;img_snow_6e_jpg__delayed&quot; data-src=&quot;/blog/images/resized/{width}/snow_6e.jpg&quot;&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;p /&gt;
+
+&lt;script&gt;
+    new Imager(&quot;.img_snow_6e_jpg__delayed&quot;, {
+        availableWidths: [480, 740, 1400]
+    });
+&lt;/script&gt;
+
 &lt;hr /&gt;
 
 &lt;p&gt;2016-01-23 17:30 雪已两呎多厚了。开始铲雪了。&lt;/p&gt;
