@@ -1,0 +1,81 @@
+---
+layout: post
+title:  "马里兰Patuxent野生动物保护区"
+date:   2016-04-17
+categories: blog
+---
+
+*小贴士：点击图片可以显示高清大图。*
+
+最近女儿常去马里兰少年体育中心参加排球比赛，我闲来无事就去旁边的Patuxent Wildlife Refugee散步。
+保护区分南北两部分，北部现在还没开，我去的是南部的访客中心。
+这里有两个小湖，散步的小路大多沿着湖边。每个小道都在1-2英里，而且道路平坦，很好走，
+全走一遍也只用一个多小时。
+
+你要是不喜欢人多的地方，这绝对是个好去处。我在这里很少看到人。今天8点到的，走了一个小时，
+一个人也没看到。上次下午去的，呆了2个多小时，也只碰到6个人。
+
+{% responsive_image path: images/patuxent/patuxent_trail_map.jpg %}
+
+---------------------
+
+公园里景色很美。
+
+{% responsive_image path: images/patuxent/patuxent_park1.jpg %}
+{% responsive_image path: images/patuxent/patuxent_park2.jpg %}
+{% responsive_image path: images/patuxent/patuxent_park3.jpg %}
+{% responsive_image path: images/patuxent/patuxent_park4.jpg %}
+{% responsive_image path: images/patuxent/patuxent_lake1.jpg %}
+
+
+-------------------
+
+今天去的早，湖上漂着雾气，犹如仙境。野鹅不时发出怪叫，又没有一个人，感觉阴森森的。
+{% responsive_image path: images/patuxent/patuxent_lake2.jpg %}
+{% responsive_image path: images/patuxent/patuxent_duck_fog.jpg %}
+
+
+-------------------
+
+这主要是鸟类保护区，公园里有各种小鸟。
+{% responsive_image path: images/patuxent/patuxent_bird1.jpg %}
+{% responsive_image path: images/patuxent/patuxent_bird2.jpg %}
+{% responsive_image path: images/patuxent/patuxent_bird3.jpg %}
+{% responsive_image path: images/patuxent/patuxent_bird4.jpg %}
+{% responsive_image path: images/patuxent/patuxent_bird5.jpg %}
+{% responsive_image path: images/patuxent/patuxent_bird6.jpg %}
+{% responsive_image path: images/patuxent/patuxent_bird7.jpg %}
+{% responsive_image path: images/patuxent/patuxent_bird8.jpg %}
+{% responsive_image path: images/patuxent/patuxent_bird9.jpg %}
+
+-------------------
+
+湖里游荡着几只鸭或是鹅，我也分不清楚。
+
+{% responsive_image path: images/patuxent/patuxent_duck1.jpg %}
+{% responsive_image path: images/patuxent/patuxent_duck_fog2.jpg %}
+
+--------------------
+
+这鸭子也不怕人，走到很近都懒得挪窝。
+{% responsive_image path: images/patuxent/patuxent_duck2.jpg %}
+
+-------------------
+
+在晨曦下，鸭子在水上留下各种各样的倒影，画面非常优美。
+{% responsive_image path: images/patuxent/patuxent_duck_mirror1.jpg %}
+{% responsive_image path: images/patuxent/patuxent_duck_mirror2.jpg %}
+{% responsive_image path: images/patuxent/patuxent_duck_mirror3.jpg %}
+{% responsive_image path: images/patuxent/patuxent_duck_mirror4.jpg %}
+{% responsive_image path: images/patuxent/patuxent_duck_mirror5.jpg %}
+{% responsive_image path: images/patuxent/patuxent_duck_mirror6.jpg %}
+{% responsive_image path: images/patuxent/patuxent_duck_mirror7.jpg %}
+
+
+--------------------
+
+蓝蓝的天空中，偶尔可以看到大雁飞来飞去。
+
+{% responsive_image path: images/patuxent/patuxent_goose1.jpg %}
+{% responsive_image path: images/patuxent/patuxent_goose2.jpg %}
+
