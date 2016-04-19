@@ -9,13 +9,17 @@ categories: blog
 
 最近女儿常去马里兰少年体育中心参加排球比赛，我闲来无事就去旁边的Patuxent Wildlife Refugee散步。
 保护区分南北两部分，北部现在还没开，我去的是南部的访客中心。
+
+{% responsive_image path: images/patuxent/patuxent_building.jpg %}
+
 这里有两个小湖，散步的小路大多沿着湖边。每个小道都在1-2英里，而且道路平坦，很好走，
 全走一遍也只用一个多小时。
+
+{% responsive_image path: images/patuxent/patuxent_trail_map.jpg %}
 
 你要是不喜欢人多的地方，这绝对是个好去处。我在这里很少看到人。今天8点到的，走了一个小时，
 一个人也没看到。上次下午去的，呆了2个多小时，也只碰到6个人。
 
-{% responsive_image path: images/patuxent/patuxent_trail_map.jpg %}
 
 ---------------------
 
@@ -25,6 +29,7 @@ categories: blog
 {% responsive_image path: images/patuxent/patuxent_park2.jpg %}
 {% responsive_image path: images/patuxent/patuxent_park3.jpg %}
 {% responsive_image path: images/patuxent/patuxent_park4.jpg %}
+{% responsive_image path: images/patuxent/patuxent_lake0.jpg %}
 {% responsive_image path: images/patuxent/patuxent_lake1.jpg %}
 
 
