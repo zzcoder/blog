@@ -6,8 +6,8 @@
 </description>
     <link>http://zzcoder.github.io/blog/blog/</link>
     <atom:link href="http://zzcoder.github.io/blog/blog/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 17 Apr 2016 14:32:38 -0400</pubDate>
-    <lastBuildDate>Sun, 17 Apr 2016 14:32:38 -0400</lastBuildDate>
+    <pubDate>Mon, 18 Apr 2016 23:02:26 -0400</pubDate>
+    <lastBuildDate>Mon, 18 Apr 2016 23:02:26 -0400</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
     
       <item>
@@ -15,12 +15,25 @@
         <description>&lt;p&gt;&lt;em&gt;小贴士：点击图片可以显示高清大图。&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;最近女儿常去马里兰少年体育中心参加排球比赛，我闲来无事就去旁边的Patuxent Wildlife Refugee散步。
-保护区分南北两部分，北部现在还没开，我去的是南部的访客中心。
-这里有两个小湖，散步的小路大多沿着湖边。每个小道都在1-2英里，而且道路平坦，很好走，
-全走一遍也只用一个多小时。&lt;/p&gt;
+保护区分南北两部分，北部现在还没开，我去的是南部的访客中心。&lt;/p&gt;
 
-&lt;p&gt;你要是不喜欢人多的地方，这绝对是个好去处。我在这里很少看到人。今天8点到的，走了一个小时，
-一个人也没看到。上次下午去的，呆了2个多小时，也只碰到6个人。&lt;/p&gt;
+&lt;div class=&quot;clickable-image&quot;&gt;
+&lt;a href=&quot;/blog/images/patuxent/patuxent_building.jpg&quot;&gt;
+&lt;div class=&quot;responsive-image&quot;&gt;
+    &lt;div class=&quot;img_patuxent_building_jpg__delayed&quot; data-src=&quot;/blog/images/resized/{width}/patuxent_building.jpg&quot;&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;p /&gt;
+
+&lt;script&gt;
+    new Imager(&quot;.img_patuxent_building_jpg__delayed&quot;, {
+        availableWidths: [480, 740, 1400]
+    });
+&lt;/script&gt;
+
+&lt;p&gt;这里有两个小湖，散步的小路大多沿着湖边。每个小道都在1-2英里，而且道路平坦，很好走，
+全走一遍也只用一个多小时。&lt;/p&gt;
 
 &lt;div class=&quot;clickable-image&quot;&gt;
 &lt;a href=&quot;/blog/images/patuxent/patuxent_trail_map.jpg&quot;&gt;
@@ -36,6 +49,9 @@
         availableWidths: [480, 740]
     });
 &lt;/script&gt;
+
+&lt;p&gt;你要是不喜欢人多的地方，这绝对是个好去处。我在这里很少看到人。今天8点到的，走了一个小时，
+一个人也没看到。上次下午去的，呆了2个多小时，也只碰到6个人。&lt;/p&gt;
 
 &lt;hr /&gt;
 
@@ -97,6 +113,21 @@
 
 &lt;script&gt;
     new Imager(&quot;.img_patuxent_park4_jpg__delayed&quot;, {
+        availableWidths: [480, 740, 1400]
+    });
+&lt;/script&gt;
+
+&lt;div class=&quot;clickable-image&quot;&gt;
+&lt;a href=&quot;/blog/images/patuxent/patuxent_lake0.jpg&quot;&gt;
+&lt;div class=&quot;responsive-image&quot;&gt;
+    &lt;div class=&quot;img_patuxent_lake0_jpg__delayed&quot; data-src=&quot;/blog/images/resized/{width}/patuxent_lake0.jpg&quot;&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;p /&gt;
+
+&lt;script&gt;
+    new Imager(&quot;.img_patuxent_lake0_jpg__delayed&quot;, {
         availableWidths: [480, 740, 1400]
     });
 &lt;/script&gt;
