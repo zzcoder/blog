@@ -1,0 +1,40 @@
+---
+layout: post
+title:  "1997年回国照片"
+date:   2016-08-07
+categories: photos 
+---
+
+*小贴士：点击图片可以显示高清大图。*
+
+# 平凉
+
+{% responsive_image path: images/china-97/china97-pl1.jpg %}
+{% responsive_image path: images/china-97/china97-pl2.jpg %}
+{% responsive_image path: images/china-97/china97-pl3.jpg %}
+{% responsive_image path: images/china-97/china97-pl4.jpg %}
+{% responsive_image path: images/china-97/china97-pl5.jpg %}
+{% responsive_image path: images/china-97/china97-pl6.jpg %}
+{% responsive_image path: images/china-97/china97-pl7.jpg %}
+{% responsive_image path: images/china-97/china97-pl8.jpg %}
+{% responsive_image path: images/china-97/china97-pl9.jpg %}
+
+# 洛阳
+
+{% responsive_image path: images/china-97/china97-ly1.jpg %}
+{% responsive_image path: images/china-97/china97-ly2.jpg %}
+{% responsive_image path: images/china-97/china97-ly3.jpg %}
+{% responsive_image path: images/china-97/china97-ly4.jpg %}
+{% responsive_image path: images/china-97/china97-ly5.jpg %}
+{% responsive_image path: images/china-97/china97-ly6.jpg %}
+{% responsive_image path: images/china-97/china97-ly7.jpg %}
+{% responsive_image path: images/china-97/china97-ly8.jpg %}
+{% responsive_image path: images/china-97/china97-ly9.jpg %}
+{% responsive_image path: images/china-97/china97-ly10.jpg %}
+
+# 北京
+
+{% responsive_image path: images/china-97/china97-bj1.jpg %}
+
+
+
