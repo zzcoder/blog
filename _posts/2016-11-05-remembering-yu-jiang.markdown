@@ -31,7 +31,10 @@ categories: blog
 
 此时此刻，我想用一句泰戈尔的诗句，为蒋钰送行：
 
-->**生如夏花之绚烂，逝如秋叶之静美**<-
+{:center: style="text-align: center"}
 
-->**Let life be beautiful like summer flowers and death like autumn leaves.**<-
+***生如夏花之绚烂，逝如秋叶之静美***
+{:center}
 
+***Let life be beautiful like summer flowers and death like autumn leaves.***
+{:center}
