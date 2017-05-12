@@ -6,8 +6,8 @@
 </description>
     <link>http://zzcoder.github.io/blog/blog/</link>
     <atom:link href="http://zzcoder.github.io/blog/blog/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 12 May 2017 00:20:20 -0400</pubDate>
-    <lastBuildDate>Fri, 12 May 2017 00:20:20 -0400</lastBuildDate>
+    <pubDate>Fri, 12 May 2017 00:51:32 -0400</pubDate>
+    <lastBuildDate>Fri, 12 May 2017 00:51:32 -0400</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
     
       <item>
@@ -147,50 +147,9 @@
     });
 &lt;/script&gt;
 
-&lt;div class=&quot;clickable-image&quot;&gt;
-&lt;a href=&quot;/blog/images/class8731/168.jpg&quot;&gt;
-&lt;div class=&quot;responsive-image&quot;&gt;
-    &lt;div class=&quot;img_168_jpg__delayed&quot; data-src=&quot;/blog/images/resized/{width}/168.jpg&quot;&gt;&lt;/div&gt;
-&lt;/div&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;p /&gt;
-
-&lt;script&gt;
-    new Imager(&quot;.img_168_jpg__delayed&quot;, {
-        availableWidths: []
-    });
-&lt;/script&gt;
-
-&lt;div class=&quot;clickable-image&quot;&gt;
-&lt;a href=&quot;/blog/images/class8731/169.jpg&quot;&gt;
-&lt;div class=&quot;responsive-image&quot;&gt;
-    &lt;div class=&quot;img_169_jpg__delayed&quot; data-src=&quot;/blog/images/resized/{width}/169.jpg&quot;&gt;&lt;/div&gt;
-&lt;/div&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;p /&gt;
-
-&lt;script&gt;
-    new Imager(&quot;.img_169_jpg__delayed&quot;, {
-        availableWidths: []
-    });
-&lt;/script&gt;
-
-&lt;div class=&quot;clickable-image&quot;&gt;
-&lt;a href=&quot;/blog/images/class8731/217.jpg&quot;&gt;
-&lt;div class=&quot;responsive-image&quot;&gt;
-    &lt;div class=&quot;img_217_jpg__delayed&quot; data-src=&quot;/blog/images/resized/{width}/217.jpg&quot;&gt;&lt;/div&gt;
-&lt;/div&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;p /&gt;
-
-&lt;script&gt;
-    new Imager(&quot;.img_217_jpg__delayed&quot;, {
-        availableWidths: []
-    });
-&lt;/script&gt;
+&lt;p&gt;&lt;img src=&quot;http://zzcoder.github.io/blog/images/class8731/168.jpg&quot; alt=&quot;photo&quot; /&gt;
+&lt;img src=&quot;http://zzcoder.github.io/blog/images/class8731/169.jpg&quot; alt=&quot;photo&quot; /&gt;
+&lt;img src=&quot;http://zzcoder.github.io/blog/images/class8731/217.jpg&quot; alt=&quot;photo&quot; /&gt;&lt;/p&gt;
 
 &lt;div class=&quot;clickable-image&quot;&gt;
 &lt;a href=&quot;/blog/images/class8731/257.jpg&quot;&gt;
@@ -1200,6 +1159,21 @@
 &lt;script&gt;
     new Imager(&quot;.img_2014-apeng_jpg__delayed&quot;, {
         availableWidths: [480, 740, 1400]
+    });
+&lt;/script&gt;
+
+&lt;div class=&quot;clickable-image&quot;&gt;
+&lt;a href=&quot;/blog/images/class8731/reunion-2017.jpg&quot;&gt;
+&lt;div class=&quot;responsive-image&quot;&gt;
+    &lt;div class=&quot;img_reunion-2017_jpg__delayed&quot; data-src=&quot;/blog/images/resized/{width}/reunion-2017.jpg&quot;&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;p /&gt;
+
+&lt;script&gt;
+    new Imager(&quot;.img_reunion-2017_jpg__delayed&quot;, {
+        availableWidths: [480, 740]
     });
 &lt;/script&gt;
 
