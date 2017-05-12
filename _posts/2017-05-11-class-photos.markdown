@@ -10,7 +10,7 @@ categories: blog
 
 *如要保存，点击图片会显示原图*
 
-![photo]({{site.url}}/images/class8731/1982-class-photo.jpg)
+![photo]({{site.url}}/images/class8731/1982-class-group-photo.jpg)
 
 
 --------------------
@@ -71,7 +71,7 @@ categories: blog
 {% responsive_image path: images/class8731/689.jpg %}
 {% responsive_image path: images/class8731/690.jpg %}
 {% responsive_image path: images/class8731/692.jpg %}
-{% responsive_image path: images/class8731/693.jpg %}
+{% responsive_image path: images/class8731/693a.jpg %}
 {% responsive_image path: images/class8731/694.jpg %}
 {% responsive_image path: images/class8731/695.jpg %}
 {% responsive_image path: images/class8731/697.jpg %}
@@ -92,9 +92,7 @@ categories: blog
 {% responsive_image path: images/class8731/714.jpg %}
 {% responsive_image path: images/class8731/728.jpg %}
 {% responsive_image path: images/class8731/1982-zhong-nan-hai.jpg %}
-
 {% responsive_image path: images/class8731/image.jpeg %}
-
 {% responsive_image path: images/class8731/scan0012.jpg %}
 {% responsive_image path: images/class8731/shang1.jpg %}
 {% responsive_image path: images/class8731/shang2.jpg %}
