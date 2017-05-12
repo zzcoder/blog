@@ -6,8 +6,8 @@
 </description>
     <link>http://zzcoder.github.io/blog/blog/</link>
     <atom:link href="http://zzcoder.github.io/blog/blog/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 11 May 2017 23:47:44 -0400</pubDate>
-    <lastBuildDate>Thu, 11 May 2017 23:47:44 -0400</lastBuildDate>
+    <pubDate>Fri, 12 May 2017 00:03:02 -0400</pubDate>
+    <lastBuildDate>Fri, 12 May 2017 00:03:02 -0400</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
     
       <item>
@@ -17,7 +17,7 @@
 
 &lt;p&gt;&lt;em&gt;如要保存，点击图片会显示原图&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://zzcoder.github.io/blog/images/class8731/1982-class-photo.jpg&quot; alt=&quot;photo&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://zzcoder.github.io/blog/images/class8731/1982-class-group-photo.jpg&quot; alt=&quot;photo&quot; /&gt;&lt;/p&gt;
 
 &lt;hr /&gt;
 
@@ -733,16 +733,16 @@
 &lt;/script&gt;
 
 &lt;div class=&quot;clickable-image&quot;&gt;
-&lt;a href=&quot;/blog/images/class8731/693.jpg&quot;&gt;
+&lt;a href=&quot;/blog/images/class8731/693a.jpg&quot;&gt;
 &lt;div class=&quot;responsive-image&quot;&gt;
-    &lt;div class=&quot;img_693_jpg__delayed&quot; data-src=&quot;/blog/images/resized/{width}/693.jpg&quot;&gt;&lt;/div&gt;
+    &lt;div class=&quot;img_693a_jpg__delayed&quot; data-src=&quot;/blog/images/resized/{width}/693a.jpg&quot;&gt;&lt;/div&gt;
 &lt;/div&gt;
 &lt;/a&gt;
 &lt;/div&gt;
 &lt;p /&gt;
 
 &lt;script&gt;
-    new Imager(&quot;.img_693_jpg__delayed&quot;, {
+    new Imager(&quot;.img_693a_jpg__delayed&quot;, {
         availableWidths: [480, 740]
     });
 &lt;/script&gt;
