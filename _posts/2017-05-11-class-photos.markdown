@@ -105,7 +105,7 @@ categories: blog
 {% responsive_image path: images/class8731/DSCF0075.JPG %}
 {% responsive_image path: images/class8731/AA.jpg %}
 {% responsive_image path: images/class8731/reunion-1997.jpg %}
-{% responsive_image path: images/class8731/reunion-guo.JPG %}
+![photo]({{site.url}}/images/class8731/reunion-guo.JPG)
 {% responsive_image path: images/class8731/reunion1.JPG %}
 {% responsive_image path: images/class8731/2014-apeng.jpg %}
 

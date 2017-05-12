@@ -6,8 +6,8 @@
 </description>
     <link>http://zzcoder.github.io/blog/blog/</link>
     <atom:link href="http://zzcoder.github.io/blog/blog/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 12 May 2017 00:03:02 -0400</pubDate>
-    <lastBuildDate>Fri, 12 May 2017 00:03:02 -0400</lastBuildDate>
+    <pubDate>Fri, 12 May 2017 00:12:09 -0400</pubDate>
+    <lastBuildDate>Fri, 12 May 2017 00:12:09 -0400</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
     
       <item>
@@ -1171,20 +1171,7 @@
     });
 &lt;/script&gt;
 
-&lt;div class=&quot;clickable-image&quot;&gt;
-&lt;a href=&quot;/blog/images/class8731/reunion-guo.JPG&quot;&gt;
-&lt;div class=&quot;responsive-image&quot;&gt;
-    &lt;div class=&quot;img_reunion-guo_JPG__delayed&quot; data-src=&quot;/blog/images/resized/{width}/reunion-guo.JPG&quot;&gt;&lt;/div&gt;
-&lt;/div&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;p /&gt;
-
-&lt;script&gt;
-    new Imager(&quot;.img_reunion-guo_JPG__delayed&quot;, {
-        availableWidths: [480, 740]
-    });
-&lt;/script&gt;
+&lt;p&gt;&lt;img src=&quot;http://zzcoder.github.io/blog/images/class8731/reunion-guo.JPG&quot; alt=&quot;photo&quot; /&gt;&lt;/p&gt;
 
 &lt;div class=&quot;clickable-image&quot;&gt;
 &lt;a href=&quot;/blog/images/class8731/reunion1.JPG&quot;&gt;
