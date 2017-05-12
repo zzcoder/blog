@@ -30,11 +30,9 @@ categories: blog
 {% responsive_image path: images/class8731/087.jpg %}
 {% responsive_image path: images/class8731/100_0084.jpg %}
 {% responsive_image path: images/class8731/116.jpg %}
-{% responsive_image path: images/class8731/168.jpg %}
-{% responsive_image path: images/class8731/169.jpg %}
-
-
-{% responsive_image path: images/class8731/217.jpg %}
+![photo]({{site.url}}/images/class8731/168.jpg)
+![photo]({{site.url}}/images/class8731/169.jpg)
+![photo]({{site.url}}/images/class8731/217.jpg)
 {% responsive_image path: images/class8731/257.jpg %}
 {% responsive_image path: images/class8731/318.jpg %}
 {% responsive_image path: images/class8731/322.jpg %}
@@ -108,6 +106,7 @@ categories: blog
 ![photo]({{site.url}}/images/class8731/reunion-guo.JPG)
 {% responsive_image path: images/class8731/reunion1.JPG %}
 {% responsive_image path: images/class8731/2014-apeng.jpg %}
+{% responsive_image path: images/class8731/reunion-2017.jpg %}
 
 --------------------
 
