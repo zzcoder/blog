@@ -59,14 +59,14 @@ Password is `anxi` for all videos
 Here are the original files from cameras, including all the RAW files.
 
 From D600 used by Zhihong:
-* http://zzcloud.myqnapcloud.com:8080/share.cgi?ssid=0qbe0V0
-* http://zzcloud.myqnapcloud.com:8080/share.cgi?ssid=0yWuLd7
-* http://zzcloud.myqnapcloud.com:8080/share.cgi?ssid=0Pxz6Mq
+* <http://zzcloud.myqnapcloud.com:8080/share.cgi?ssid=0qbe0V0>
+* <http://zzcloud.myqnapcloud.com:8080/share.cgi?ssid=0yWuLd7>
+* <http://zzcloud.myqnapcloud.com:8080/share.cgi?ssid=0Pxz6Mq>
 
 From D800 used by Aaron:
-* http://zzcloud.myqnapcloud.com:8080/share.cgi?ssid=0FjGkAJ
+* <http://zzcloud.myqnapcloud.com:8080/share.cgi?ssid=0FjGkAJ>
 
 From D610 used by Brandon (mostly videos)
-* http://zzcloud.myqnapcloud.com:8080/share.cgi?ssid=0bQcksv
+* <http://zzcloud.myqnapcloud.com:8080/share.cgi?ssid=0bQcksv>
 
 ------------------------------
