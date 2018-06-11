@@ -5,7 +5,7 @@ date:   2018-06-09
 categories: tutorial 
 ---
 
-All media files for the 6/9/2018 Memorial Serivce
+All media files for the 6/9/2018 Memorial Service
 
 Please bookmark this link. I will update this page whenever new 
 content is available.
