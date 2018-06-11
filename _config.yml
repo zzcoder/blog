@@ -19,7 +19,7 @@ github_username:  zzcoder
 markdown: kramdown
 # destination: ../site
 gems: 
-  - jekyll/responsive_image
+  - jekyll-responsive-image 
 
 responsive_image:
   # [Required]

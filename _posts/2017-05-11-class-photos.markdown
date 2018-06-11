@@ -106,7 +106,7 @@ categories: blog
 ![photo]({{site.url}}/images/class8731/reunion-guo.JPG)
 {% responsive_image path: images/class8731/reunion1.JPG %}
 {% responsive_image path: images/class8731/2014-apeng.jpg %}
-{% responsive_image path: images/class8731/reunion-2017.jpg %}
+{% responsive_image path: images/class8731/reunion-2017.JPG %}
 
 --------------------
 
