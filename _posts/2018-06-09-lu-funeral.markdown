@@ -31,7 +31,7 @@ For example, 9470 for `180609_143602.jpg_DSC_9470.jpg`.
 * 10:30-10:45: <https://www.flickr.com/gp/zz_photo/p0pNCv>
 * 10:45-11:00: <https://www.flickr.com/gp/zz_photo/90z3s6>
 * 11:00-12:00: <https://www.flickr.com/gp/zz_photo/6qz8JQ>
-* 14:00-15:00: <https://www.flickr.com/gp/zz_photo/f836Av>
+* 12:00-15:00: <https://www.flickr.com/gp/zz_photo/f836Av>
 
 * Edited photos: <https://www.flickr.com/gp/zz_photo/Q1UN1E>
 * Flowers: <https://www.flickr.com/gp/zz_photo/708yS2>
