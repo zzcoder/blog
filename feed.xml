@@ -6,8 +6,8 @@
 </description>
     <link>http://zzcoder.github.io/blog/blog/</link>
     <atom:link href="http://zzcoder.github.io/blog/blog/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 12 Jun 2018 22:47:36 -0400</pubDate>
-    <lastBuildDate>Tue, 12 Jun 2018 22:47:36 -0400</lastBuildDate>
+    <pubDate>Tue, 12 Jun 2018 23:03:21 -0400</pubDate>
+    <lastBuildDate>Tue, 12 Jun 2018 23:03:21 -0400</lastBuildDate>
     <generator>Jekyll v3.8.3</generator>
     
       <item>
@@ -87,8 +87,10 @@ For example, 9470 for &lt;code class=&quot;highlighter-rouge&quot;&gt;180609_143
 
 &lt;p&gt;Photos for Timelapse (Took every 10 seconds)&lt;/p&gt;
 
-&lt;p&gt;*Memorial Service: &lt;a href=&quot;https://www.flickr.com/gp/zz_photo/15U0do&quot;&gt;https://www.flickr.com/gp/zz_photo/15U0do&lt;/a&gt;
-*Reception: &lt;a href=&quot;https://www.flickr.com/gp/zz_photo/1Eq801&quot;&gt;https://www.flickr.com/gp/zz_photo/1Eq801&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Memorial Service: &lt;a href=&quot;https://www.flickr.com/gp/zz_photo/15U0do&quot;&gt;https://www.flickr.com/gp/zz_photo/15U0do&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Reception: &lt;a href=&quot;https://www.flickr.com/gp/zz_photo/1Eq801&quot;&gt;https://www.flickr.com/gp/zz_photo/1Eq801&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;h3 id=&quot;source&quot;&gt;Source&lt;/h3&gt;
 
