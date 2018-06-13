@@ -68,8 +68,8 @@ Youku
 
 Photos for Timelapse (Took every 10 seconds)
 
-*Memorial Service: <https://www.flickr.com/gp/zz_photo/15U0do>
-*Reception: <https://www.flickr.com/gp/zz_photo/1Eq801>
+* Memorial Service: <https://www.flickr.com/gp/zz_photo/15U0do>
+* Reception: <https://www.flickr.com/gp/zz_photo/1Eq801>
 
 ### Source
 
