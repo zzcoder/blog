@@ -54,6 +54,23 @@ Password is `anxi` for all videos
 * Arrival and Viewing: <https://m.youku.com/video/id_XMzY1NzczNTg5Ng==.html?ishttps=1>
 * Burial: <https://m.youku.com/video/id_XMzY1NzczNjc0MA==.html?ishttps=1>
 
+### Timelapse
+
+YouTube
+
+* Memorial Service: <https://youtu.be/-AJ64eejq-w>
+* Reception: <https://youtu.be/XoOgEkwAUFw>
+
+Youku
+
+* Memorial Service: <http://v.youku.com/v_show/id_XMzY2MTYyNjQ4MA==.html>
+* Reception: <http://v.youku.com/v_show/id_XMzY2MTY2Mzg2NA==.html>
+
+Photos for Timelapse (Took every 10 seconds)
+
+*Memorial Service: <https://www.flickr.com/gp/zz_photo/15U0do>
+*Reception: <https://www.flickr.com/gp/zz_photo/1Eq801>
+
 ### Source
 
 Here are the original files from cameras, including all the RAW files.
