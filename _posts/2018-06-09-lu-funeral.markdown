@@ -14,16 +14,17 @@ content is available.
 
 ### Photos
 
-The unedited JPEGs from Zhihong and Aaron are all uploaded to
-Flickr. Flickr has trouble handling large albums so the photos are 
-divivded into 7 ablums based on time. Clocks from 2 cameras are not
-in sync so it's out of order sometimes.
+Edited photos on Flickr,
 
-All the photos are private (The link serves as password) so you can't
-share the link for individual photos. 
+* Edited photos: <https://www.flickr.com/gp/zz_photo/f597j7>
+* Flowers: <https://www.flickr.com/gp/zz_photo/g3w1KP>
 
-If you want any photos edited, please give me the last 4 digit number.
-For example, 9470 for `180609_143602.jpg_DSC_9470.jpg`.
+Meipian articles,
+
+* 100 selected photos: <https://www.meipian.cn/1ebashrp>
+* Flowers: <https://www.meipian.cn/1dmpe73g>
+
+Raw photos on Flickr,
 
 * 08:40-09:30: <https://www.flickr.com/gp/zz_photo/916020>
 * 09:30-10:00: <https://www.flickr.com/gp/zz_photo/5362R0>
@@ -32,11 +33,6 @@ For example, 9470 for `180609_143602.jpg_DSC_9470.jpg`.
 * 10:45-11:00: <https://www.flickr.com/gp/zz_photo/90z3s6>
 * 11:00-12:00: <https://www.flickr.com/gp/zz_photo/6qz8JQ>
 * 12:00-15:00: <https://www.flickr.com/gp/zz_photo/f836Av>
-
-* Edited photos: <https://www.flickr.com/gp/zz_photo/Q1UN1E>
-* Flowers: <https://www.flickr.com/gp/zz_photo/708yS2>
-
-* Meipian Article for flowers: <https://www.meipian.cn/1dmpe73g>
 
 ### Videos
 
@@ -48,8 +44,6 @@ YouTube (unlisted):
 * Reception: <https://youtu.be/Mk1KeCiMEDA>
 
 Youku:
-
-Password is `anxi` for all videos
 
 * Arrival and Viewing: <https://m.youku.com/video/id_XMzY1NzczNTg5Ng==.html?ishttps=1>
 * Burial: <https://m.youku.com/video/id_XMzY1NzczNjc0MA==.html?ishttps=1>
@@ -71,9 +65,27 @@ Photos for Timelapse (Took every 10 seconds)
 * Memorial Service: <https://www.flickr.com/gp/zz_photo/15U0do>
 * Reception: <https://www.flickr.com/gp/zz_photo/1Eq801>
 
-### Source
+### Files
 
-Here are the original files from cameras, including all the RAW files.
+All the source files including those downloaded from cameras are on my NAS. 
+The most reliable way to get those is to use `rsync`,
+
+    rsync -av admin@zzcloud.myqnapcloud.com:/share/homes/admin/photos/folder .
+
+The following folders are available,
+
+    180609a-funeral-zhang1
+    180609b-funeral-zhang2
+    180609c-funeral-qian
+    180609d-funeral-video
+    180609e-funeral-zhang3
+    180609f-timelapse-memorial
+    180609g-timelapse-reception
+    180609h-processed-videos
+    180609x-funeral-edited
+    180609y-funeral-flowers
+
+The NAS UI may work for downloading indiviual files,
 
 From D600 used by Zhihong:
 * <http://zzcloud.myqnapcloud.com:8080/share.cgi?ssid=0qbe0V0>
