@@ -16,54 +16,54 @@ content is available.
 
 Edited photos on Flickr,
 
-* Edited photos: <https://www.flickr.com/gp/zz_photo/f597j7>
-* Flowers: <https://www.flickr.com/gp/zz_photo/g3w1KP>
+* Edited photos: <https://www.flickr.com/gp/zz_photo/f597j7>{:target="_blank"}
+* Flowers: <https://www.flickr.com/gp/zz_photo/01n3D8>{:target="_blank"}
 
 Meipian articles,
 
-* 100 selected photos: <https://www.meipian.cn/1ebashrp>
-* Flowers: <https://www.meipian.cn/1dmpe73g>
+* 100 selected photos: <https://www.meipian.cn/1ebashrp>{:target="_blank"}
+* Flowers: <https://www.meipian.cn/1dmpe73g>{:target="_blank"}
 
 Raw photos on Flickr,
 
-* 08:40-09:30: <https://www.flickr.com/gp/zz_photo/916020>
-* 09:30-10:00: <https://www.flickr.com/gp/zz_photo/5362R0>
-* 10:00-10:30: <https://www.flickr.com/gp/zz_photo/mL200X>
-* 10:30-10:45: <https://www.flickr.com/gp/zz_photo/p0pNCv>
-* 10:45-11:00: <https://www.flickr.com/gp/zz_photo/90z3s6>
-* 11:00-12:00: <https://www.flickr.com/gp/zz_photo/6qz8JQ>
-* 12:00-15:00: <https://www.flickr.com/gp/zz_photo/f836Av>
+* 08:40-09:30: <https://www.flickr.com/gp/zz_photo/916020>{:target="_blank"}
+* 09:30-10:00: <https://www.flickr.com/gp/zz_photo/5362R0>{:target="_blank"}
+* 10:00-10:30: <https://www.flickr.com/gp/zz_photo/mL200X>{:target="_blank"}
+* 10:30-10:45: <https://www.flickr.com/gp/zz_photo/p0pNCv>{:target="_blank"}
+* 10:45-11:00: <https://www.flickr.com/gp/zz_photo/90z3s6>{:target="_blank"}
+* 11:00-12:00: <https://www.flickr.com/gp/zz_photo/6qz8JQ>{:target="_blank"}
+* 12:00-15:00: <https://www.flickr.com/gp/zz_photo/f836Av>{:target="_blank"}
 
 ### Videos
 
 YouTube (unlisted):
 
-* Arrival and Viewing: <https://youtu.be/MyZGZg-rGVg>
-* Memorial serivce: <https://youtu.be/w_izPZf8lFg>
-* Burial: <https://youtu.be/gkbERGikl3A>
-* Reception: <https://youtu.be/Mk1KeCiMEDA>
+* Arrival and Viewing: <https://youtu.be/MyZGZg-rGVg>{:target="_blank"}
+* Memorial serivce: <https://youtu.be/w_izPZf8lFg>{:target="_blank"}
+* Burial: <https://youtu.be/gkbERGikl3A>{:target="_blank"}
+* Reception: <https://youtu.be/Mk1KeCiMEDA>{:target="_blank"}
 
 Youku:
 
-* Arrival and Viewing: <https://m.youku.com/video/id_XMzY1NzczNTg5Ng==.html?ishttps=1>
-* Burial: <https://m.youku.com/video/id_XMzY1NzczNjc0MA==.html?ishttps=1>
+* Arrival and Viewing: <https://m.youku.com/video/id_XMzY1NzczNTg5Ng==.html?ishttps=1>{:target="_blank"}
+* Burial: <https://m.youku.com/video/id_XMzY1NzczNjc0MA==.html?ishttps=1>{:target="_blank"}
 
 ### Timelapse
 
 YouTube
 
-* Memorial Service: <https://youtu.be/-AJ64eejq-w>
-* Reception: <https://youtu.be/XoOgEkwAUFw>
+* Memorial Service: <https://youtu.be/-AJ64eejq-w>{:target="_blank"}
+* Reception: <https://youtu.be/XoOgEkwAUFw>{:target="_blank"}
 
 Youku
 
-* Memorial Service: <http://v.youku.com/v_show/id_XMzY2MTYyNjQ4MA==.html>
-* Reception: <http://v.youku.com/v_show/id_XMzY2MTY2Mzg2NA==.html>
+* Memorial Service: <http://v.youku.com/v_show/id_XMzY2MTYyNjQ4MA==.html>{:target="_blank"}
+* Reception: <http://v.youku.com/v_show/id_XMzY2MTY2Mzg2NA==.html>{:target="_blank"}
 
 Photos for Timelapse (Took every 10 seconds)
 
-* Memorial Service: <https://www.flickr.com/gp/zz_photo/15U0do>
-* Reception: <https://www.flickr.com/gp/zz_photo/1Eq801>
+* Memorial Service: <https://www.flickr.com/gp/zz_photo/15U0do>{:target="_blank"}
+* Reception: <https://www.flickr.com/gp/zz_photo/1Eq801>{:target="_blank"}
 
 ### Files
 
@@ -88,14 +88,14 @@ The following folders are available,
 The NAS UI may work for downloading indiviual files,
 
 From D600 used by Zhihong:
-* <http://zzcloud.myqnapcloud.com:8080/share.cgi?ssid=0qbe0V0>
-* <http://zzcloud.myqnapcloud.com:8080/share.cgi?ssid=0yWuLd7>
-* <http://zzcloud.myqnapcloud.com:8080/share.cgi?ssid=0Pxz6Mq>
+* <http://zzcloud.myqnapcloud.com:8080/share.cgi?ssid=0qbe0V0>{:target="_blank"}
+* <http://zzcloud.myqnapcloud.com:8080/share.cgi?ssid=0yWuLd7>{:target="_blank"}
+* <http://zzcloud.myqnapcloud.com:8080/share.cgi?ssid=0Pxz6Mq>{:target="_blank"}
 
 From D800 used by Aaron:
-* <http://zzcloud.myqnapcloud.com:8080/share.cgi?ssid=0FjGkAJ>
+* <http://zzcloud.myqnapcloud.com:8080/share.cgi?ssid=0FjGkAJ>{:target="_blank"}
 
 From D610 used by Brandon (mostly videos)
-* <http://zzcloud.myqnapcloud.com:8080/share.cgi?ssid=0bQcksv>
+* <http://zzcloud.myqnapcloud.com:8080/share.cgi?ssid=0bQcksv>{:target="_blank"}
 
 ------------------------------
